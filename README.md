@@ -43,26 +43,6 @@ FoodHub is a comprehensive food delivery platform that connects customers, resta
 - **Location Services**: Google Play Services Location
 - **Serialization**: Kotlinx Serialization
 
-## Tutorial Series
-
-Watch the complete tutorial series on YouTube to learn how to build this FoodHub Android app from scratch:
-
-[![FoodHub Android Tutorial](https://img.youtube.com/vi/4kFqlFEEUus/0.jpg)](https://www.youtube.com/watch?v=4kFqlFEEUus&list=PL0pXjGnY7PORsStPOklvOMPOTXoS1-bkP)
-
-### Tutorial Playlist Contents
-
-1. Project Setup and Architecture
-2. Authentication Implementation
-3. Restaurant Listing and Details
-4. Cart Management
-5. Order Processing
-6. Payment Integration
-7. Real-time Location Tracking
-8. Push Notifications
-9. Restaurant Dashboard
-10. Rider App Features
-
-Watch the complete playlist: [FoodHub Android Tutorial Series](https://www.youtube.com/playlist?list=PL0pXjGnY7PORsStPOklvOMPOTXoS1-bkP)
 
 ## Screenshots
 
@@ -149,18 +129,6 @@ The project has three flavors: customer, restaurant, and rider. To build each fl
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details. This license allows you to:
-
-- Use the code commercially
-- Modify the code
-- Distribute the code
-- Use the code privately
-- Sublicense the code
-
-The only requirement is that you must include the original copyright notice and license text in any substantial portion of the code.
-
-## Support
 
 For support, please contact the development team or raise an issue in the repository. 
